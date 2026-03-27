@@ -24,10 +24,10 @@
     }
   ],
   "env": {
-    "MONGODB_URI": "@mongodb_uri",
     "MAIL_USER": "@mail_user",
     "MAIL_PASS": "@mail_pass",
     "MAIL_TO": "@mail_to",
     "PORT": "3001"
   }
 }
+
